@@ -1,0 +1,14 @@
+{
+  "display_name": "灵山文化导游",
+  "role_name": "智能讲解员",
+  "appearance": "端庄亲和",
+  "costume": "职业",
+  "cultural_style": "灵山佛教文化风格",
+  "theme_color": "#2e7d32",
+  "voice_name": "温和讲解音",
+  "voice_sid": 11,
+  "voice_speed": 1.2,
+  "idle_video": "avatar_custom_idle.mp4",
+  "speaking_video": "avatar_custom_speaking.mp4",
+  "thinking_video": "avatar_custom_thinking.mp4"
+}

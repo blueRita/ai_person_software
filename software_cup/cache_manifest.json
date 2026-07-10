@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dafo_height",
+    "keywords": [
+      "大佛多高",
+      "灵山大佛有多高",
+      "多少米",
+      "高吗",
+      "灵山大佛简介",
+      "介绍一下灵山大佛",
+      "灵山大佛"
+    ],
+    "answer": "灵山大佛通高八十八米，是灵山胜境最具代表性的景观之一。站在佛脚下仰望，会特别直观地感受到它的庄严和震撼。游览时建议从九龙灌浴一路走向大佛，这样仪式感会更完整。",
+    "audio_file": "cache_dafo_height.wav",
+    "video_file": "cache_da.mp4",
+    "lipsync_video_file": "cache_dafo_height_lipsync.mp4",
+    "answer_file": "cache_dafo_height.txt",
+    "cache_mode": "lipsync"
+  }
+]

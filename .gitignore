@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Large model files
+*.onnx
+*.pth
+*.pt
+*.bin
+vits-zh-hf-fanchen-C/
+
+# Generated media/cache
+*.wav
+*.mp3
+*.mp4
+*.avi
+temp/
+cache/
